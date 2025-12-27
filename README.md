@@ -103,6 +103,9 @@
 ## Expedia
 * [Blog](https://medium.com/expedia-group-tech) | [RSS Feed](https://medium.com/feed/expedia-group-tech)
 
+## Electrics-App
+* [Github Project](https://github.com/rubenOrtz/Electrics-App)
+
 ## Facebook
 * [Blog](https://engineering.fb.com/) | [RSS Feed](https://engineering.fb.com/feed/)
 * [GitHub Page](https://github.com/facebook)
